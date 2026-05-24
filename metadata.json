@@ -1,0 +1,6 @@
+{
+  "name": "HDXCloud Hosting",
+  "description": "Premium, high-performance, and affordable Minecraft, VPS, and game server hosting with global locations and an advanced control panel. Real-time controls, budget-friendly plans, 24/7 expert support, and instant setup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
